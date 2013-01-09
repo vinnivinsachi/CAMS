@@ -1,0 +1,133 @@
+﻿2010-12-20T01:39:10-05:00 INFO (6): 1====fsockepen starting''
+2010-12-20T01:39:10-05:00 INFO (6): 3====fsockepen is open''
+2010-12-20T01:39:10-05:00 INFO (6): at after fclose fp
+2010-12-20T01:39:10-05:00 INFO (6): at createorder is false
+2010-12-20T01:43:36-05:00 INFO (6): 1====fsockepen starting''
+2010-12-20T01:43:36-05:00 INFO (6): 3====fsockepen is open''
+2010-12-20T01:43:37-05:00 INFO (6): invoice id is: K16328124
+2010-12-20T01:43:37-05:00 INFO (6): createOrder is TURE
+2010-12-20T01:43:37-05:00 INFO (6): 8888 == The response from IPN was: VERIFIED
+2010-12-20T01:43:37-05:00 INFO (6): invoice
+2010-12-20T01:43:37-05:00 INFO (6): K16328124
+2010-12-20T01:43:37-05:00 INFO (6): payment_status
+2010-12-20T01:43:37-05:00 INFO (6): Pending
+2010-12-20T01:43:37-05:00 INFO (6): at after fclose fp
+2010-12-20T01:43:37-05:00 WARN (4): starting to do stuff
+2010-12-20T01:53:19-05:00 INFO (6): 1====fsockepen starting''
+2010-12-20T01:53:19-05:00 INFO (6): 3====fsockepen is open''
+2010-12-20T01:53:20-05:00 INFO (6): invoice id is: d25067420
+2010-12-20T01:53:20-05:00 INFO (6): createOrder is TURE
+2010-12-20T01:53:20-05:00 INFO (6): 8888 == The response from IPN was: VERIFIED
+2010-12-20T01:53:20-05:00 INFO (6): invoice
+2010-12-20T01:53:20-05:00 INFO (6): d25067420
+2010-12-20T01:53:20-05:00 INFO (6): payment_status
+2010-12-20T01:53:20-05:00 INFO (6): Pending
+2010-12-20T01:53:20-05:00 INFO (6): at after fclose fp
+2010-12-20T01:53:20-05:00 WARN (4): starting to do stuff
+2010-12-20T02:09:24-05:00 INFO (6): 1====fsockepen starting''
+2010-12-20T02:09:24-05:00 INFO (6): 3====fsockepen is open''
+2010-12-20T02:09:25-05:00 INFO (6): invoice id is: f03139393
+2010-12-20T02:09:25-05:00 INFO (6): createOrder is TURE
+2010-12-20T02:09:25-05:00 INFO (6): 8888 == The response from IPN was: VERIFIED
+2010-12-20T02:09:25-05:00 INFO (6): invoice
+2010-12-20T02:09:25-05:00 INFO (6): f03139393
+2010-12-20T02:09:25-05:00 INFO (6): payment_status
+2010-12-20T02:09:25-05:00 INFO (6): Pending
+2010-12-20T02:09:25-05:00 INFO (6): at after fclose fp
+2010-12-20T02:09:25-05:00 WARN (4): starting to do stuff
+2010-12-20T02:48:44-05:00 INFO (6): 1====fsockepen starting''
+2010-12-20T02:48:44-05:00 INFO (6): 3====fsockepen is open''
+2010-12-20T02:48:45-05:00 INFO (6): invoice id is: p89558534
+2010-12-20T02:48:45-05:00 INFO (6): createOrder is TURE
+2010-12-20T02:48:45-05:00 INFO (6): 8888 == The response from IPN was: VERIFIED
+2010-12-20T02:48:45-05:00 INFO (6): invoice
+2010-12-20T02:48:45-05:00 INFO (6): p89558534
+2010-12-20T02:48:45-05:00 INFO (6): payment_status
+2010-12-20T02:48:45-05:00 INFO (6): Pending
+2010-12-20T02:48:45-05:00 INFO (6): at after fclose fp
+2010-12-20T02:48:45-05:00 WARN (4): starting to do stuff
+2010-12-20T03:00:59-05:00 INFO (6): 1====fsockepen starting''
+2010-12-20T03:00:59-05:00 INFO (6): 3====fsockepen is open''
+2010-12-20T03:01:00-05:00 INFO (6): invoice id is: k59358917
+2010-12-20T03:01:00-05:00 INFO (6): createOrder is TURE
+2010-12-20T03:01:00-05:00 INFO (6): 8888 == The response from IPN was: VERIFIED
+2010-12-20T03:01:00-05:00 INFO (6): invoice
+2010-12-20T03:01:00-05:00 INFO (6): k59358917
+2010-12-20T03:01:00-05:00 INFO (6): payment_status
+2010-12-20T03:01:00-05:00 INFO (6): Pending
+2010-12-20T03:01:00-05:00 INFO (6): at after fclose fp
+2010-12-20T03:01:00-05:00 WARN (4): starting to do stuff
+2010-12-20T03:15:54-05:00 INFO (6): 1====fsockepen starting''
+2010-12-20T03:15:54-05:00 INFO (6): 3====fsockepen is open''
+2010-12-20T03:15:55-05:00 INFO (6): invoice id is: h12948850
+2010-12-20T03:15:55-05:00 INFO (6): createOrder is TURE
+2010-12-20T03:15:55-05:00 INFO (6): 8888 == The response from IPN was: VERIFIED
+2010-12-20T03:15:55-05:00 INFO (6): invoice
+2010-12-20T03:15:55-05:00 INFO (6): h12948850
+2010-12-20T03:15:55-05:00 INFO (6): payment_status
+2010-12-20T03:15:55-05:00 INFO (6): Pending
+2010-12-20T03:15:55-05:00 INFO (6): at after fclose fp
+2010-12-20T03:15:55-05:00 WARN (4): starting to do stuff
+2010-12-27T08:26:16-05:00 WARN (4): Failed login attempt from 97.83.24.135 user vedance(Invalid password)
+2010-12-28T18:45:39-05:00 WARN (4): Failed login attempt from 97.83.24.135 user vedance(Invalid password)
+2011-01-02T16:04:20-05:00 WARN (4): Failed login attempt from 98.209.16.188 user vedance(Invalid password)
+2011-01-02T16:04:29-05:00 WARN (4): Failed login attempt from 98.209.16.188 user vedance(Invalid password)
+2011-01-03T18:46:54-05:00 WARN (4): Failed login attempt from 67.194.10.141 user vedance(Invalid password)
+2011-01-05T15:02:57-05:00 INFO (6): 1====fsockepen starting''
+2011-01-05T15:02:57-05:00 INFO (6): 3====fsockepen is open''
+2011-01-05T15:02:58-05:00 INFO (6): invoice id is: u12303151
+2011-01-05T15:02:58-05:00 INFO (6): createOrder is TURE
+2011-01-05T15:02:58-05:00 INFO (6): 8888 == The response from IPN was: VERIFIED
+2011-01-05T15:02:58-05:00 INFO (6): invoice
+2011-01-05T15:02:58-05:00 INFO (6): u12303151
+2011-01-05T15:02:58-05:00 INFO (6): payment_status
+2011-01-05T15:02:58-05:00 INFO (6): Completed
+2011-01-05T15:02:58-05:00 INFO (6): at after fclose fp
+2011-01-05T15:02:58-05:00 WARN (4): starting to do stuff
+2011-01-05T17:01:55-05:00 WARN (4): Failed login attempt from 67.194.20.47 user vedance(Invalid password)
+2011-01-08T20:12:20-05:00 WARN (4): Failed login attempt from 208.75.16.59 user vedance(Invalid password)
+2011-01-13T09:24:31-05:00 INFO (6): 1====fsockepen starting''
+2011-01-13T09:24:31-05:00 INFO (6): 3====fsockepen is open''
+2011-01-13T09:24:31-05:00 INFO (6): invoice id is: P33516687
+2011-01-13T09:24:31-05:00 INFO (6): createOrder is TURE
+2011-01-13T09:24:31-05:00 INFO (6): 8888 == The response from IPN was: VERIFIED
+2011-01-13T09:24:31-05:00 INFO (6): invoice
+2011-01-13T09:24:31-05:00 INFO (6): P33516687
+2011-01-13T09:24:31-05:00 INFO (6): payment_status
+2011-01-13T09:24:31-05:00 INFO (6): Completed
+2011-01-13T09:24:31-05:00 INFO (6): at after fclose fp
+2011-01-13T09:24:31-05:00 WARN (4): starting to do stuff
+2011-01-15T01:33:34-05:00 WARN (4): Failed login attempt from 76.10.15.190 user vedance(Invalid password)
+2011-01-15T17:32:30-05:00 WARN (4): Failed login attempt from 98.209.16.188 user vedance(Invalid password)
+2011-01-16T18:33:33-05:00 WARN (4): Failed login attempt from 67.194.2.87 user vedance(Invalid password)
+2011-01-16T18:33:39-05:00 WARN (4): Failed login attempt from 67.194.2.87 user vedance(Invalid password)
+2011-01-17T14:15:42-05:00 WARN (4): Failed login attempt from 98.209.16.188 user vedance(Invalid password)
+2011-01-18T16:32:42-05:00 WARN (4): Failed login attempt from 64.134.175.88 user michigan.acupuncture(Invalid password)
+2011-01-26T23:40:04-05:00 WARN (4): Failed login attempt from 71.227.121.161 user michigan.acupuncture(Invalid password)
+2011-04-11T15:59:37-04:00 WARN (4): Failed login attempt from 71.156.15.164 user michigan.acupuncture@gmail.com(Unknown username)
+2011-04-11T16:02:11-04:00 WARN (4): Failed login attempt from 71.156.15.164 user gtli(Unknown username)
+2011-04-11T16:02:22-04:00 WARN (4): Failed login attempt from 71.156.15.164 user ligt86(Unknown username)
+2011-06-08T14:02:19-04:00 WARN (4): Failed login attempt from 71.227.121.161 user michigan.acupuncture(Invalid password)
+2011-06-21T04:23:52-04:00 WARN (4): Failed login attempt from 50.33.196.64 user michigan.acupuncture(Invalid password)
+2011-06-21T04:25:15-04:00 WARN (4): Failed login attempt from 50.33.196.64 user michigan.acupuncture(Invalid password)
+2011-08-16T19:44:04-04:00 WARN (4): Failed login attempt from 207.145.38.45 user michigan.acupuncture@gmail.com(Unknown username)
+2011-08-22T22:23:13-04:00 WARN (4): Failed login attempt from 68.41.142.15 user michigan.acupuncture@gmail.com(Unknown username)
+2011-08-22T22:23:24-04:00 WARN (4): Failed login attempt from 68.41.142.15 user michigan.acupuncture@gmail.com(Unknown username)
+2011-08-29T18:56:38-04:00 WARN (4): Failed login attempt from 71.227.121.161 user michigan.acupuncture(Invalid password)
+2011-09-11T20:43:27-04:00 WARN (4): Failed login attempt from 71.227.121.161 user michigan.acupuncture(Invalid password)
+2011-09-13T15:43:51-04:00 WARN (4): Failed login attempt from 71.227.121.161 user michigan.acupuncure(Unknown username)
+2011-09-13T15:44:43-04:00 WARN (4): Failed login attempt from 71.227.121.161 user michigan.acpuncture(Unknown username)
+2011-10-01T13:59:44-04:00 WARN (4): Failed login attempt from 71.227.121.161 user michigan-acupuncture(Unknown username)
+2011-11-21T13:09:23-05:00 WARN (4): Failed login attempt from 24.145.221.35 user michigan.acupuncture(Invalid password)
+2012-01-17T19:35:05-05:00 WARN (4): Failed login attempt from 71.227.121.161 user michigan.acupuncture(Invalid password)
+2012-01-27T22:30:15-05:00 WARN (4): Failed login attempt from 24.145.221.35 user michigan.acupuncture(Invalid password)
+2012-02-06T02:32:24-05:00 WARN (4): Failed login attempt from 66.108.21.221 user michacu@gmail.com(Unknown username)
+2012-02-06T02:33:20-05:00 WARN (4): Failed login attempt from 66.108.21.221 user michacu(Unknown username)
+2012-04-14T20:54:20-04:00 WARN (4): Failed login attempt from 71.227.121.161 user michigan.acupuncture(Invalid password)
+2012-04-16T20:47:57-04:00 WARN (4): Failed login attempt from 24.145.221.122 user michigan.acupuncture(Invalid password)
+2012-05-11T12:18:19-04:00 WARN (4): Failed login attempt from 71.227.121.161 user michigan.acupuncture(Invalid password)
+2012-06-20T20:46:34-04:00 WARN (4): Failed login attempt from 64.134.175.216 user michigan.acupuncture(Invalid password)
+2012-06-23T19:34:58-04:00 WARN (4): Failed login attempt from 64.134.174.152 user michigan.acupuncture(Invalid password)
+2012-07-09T14:09:31-04:00 WARN (4): Failed login attempt from 76.249.41.70 user michigan.acupuncture(Invalid password)
+2012-07-26T10:37:22-04:00 WARN (4): Failed login attempt from 76.249.41.70 user michigan.acupuncture(Invalid password)
+2013-01-09T14:29:19-05:00 WARN (4): Failed login attempt from 216.37.107.139 user michacu(Unknown username)
