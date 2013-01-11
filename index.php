@@ -65,7 +65,7 @@ Zend_Registry::set('config', $config);
 //configure database stuff given from the setttings.ini
 $params = array('host'     => 'localhost',
 				'username' => 'root',
-				'password' => 'v!nceandaaron',
+				'password' => 'root',
 				'dbname'   => 'chineseams');
 
 //I guess combining the type of sql with the informatin in params

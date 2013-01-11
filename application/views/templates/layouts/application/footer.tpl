@@ -18,7 +18,7 @@
 		<div id="UIMessage">
 		</div>
         <div id='loadingImage' style='position:absolute; margin:0px; width:100%; height:100%; padding-left:30%; z-index: 100; display:none; opacity:0.8;'>
-            <img src='/public/resources/css/images/loading.gif'/>
+            <img src='public/resources/css/images/loading.gif'/>
         </div>
 
 	</div>

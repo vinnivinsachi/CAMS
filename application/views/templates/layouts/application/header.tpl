@@ -9,25 +9,25 @@
 <meta name="description" content="Michigan-Acupuncture is the dedicated to provide the best acupressure massage service in Michigan as well as offering a acupuncture masters school."/>
 <meta name="google-site-verification" content="ARSvh6lT3EvbdalDg4kCi_nHDZS7xieDImXGpCI01kQ" />
 
-<link rel="stylesheet" type="text/css" href="/public/resources/css/index.css"/>
-<link rel="stylesheet" type="text/css" href="/public/resources/css/vedance.css"/>
-<link rel="stylesheet" type="text/css" href="/public/resources/css/slidemenu.css" />
-<script src="/public/resources/javascripts/prototype.js" type="text/javascript"></script>
-<script src="/public/resources/javascripts/scriptaculous/scriptaculous.js?load=effects,builder,dragdrop" type="text/javascript"></script>
-<script src="/public/resources/global.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="public/resources/css/index.css"/>
+<link rel="stylesheet" type="text/css" href="public/resources/css/vedance.css"/>
+<link rel="stylesheet" type="text/css" href="public/resources/css/slidemenu.css" />
+<script src="public/resources/javascripts/prototype.js" type="text/javascript"></script>
+<script src="public/resources/javascripts/scriptaculous/scriptaculous.js?load=effects,builder,dragdrop" type="text/javascript"></script>
+<script src="public/resources/global.js" type="text/javascript"></script>
 
 
-<script src="/public/resources/jquery/js/jquery-1.4.2.min.js" type="text/javascript"></script>
-<script src="/public/resources/jquery/js/colorbox/jquery.colorbox-min.js" type="text/javascript"></script>
-<link rel='stylesheet' type='text/css' href="/public/resources/jquery/js/colorbox/colorbox.css" />
-<script src="/public/resources/jquery/js/jquery.tools.min.js" type="text/javascript"></script>
+<script src="public/resources/jquery/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="public/resources/jquery/js/colorbox/jquery.colorbox-min.js" type="text/javascript"></script>
+<link rel='stylesheet' type='text/css' href="public/resources/jquery/js/colorbox/colorbox.css" />
+<script src="public/resources/jquery/js/jquery.tools.min.js" type="text/javascript"></script>
 <script>
      var $j = jQuery.noConflict();
 </script>
 
-<script src="/public/resources/jquery/js/jquery-ui-1.8.4.custom.min.js"></script>
-<link rel="stylesheet" type="text/css" href="/public/resources/jquery/css/black-tie/jquery-ui-1.8.4.custom.css"/>
-<script src="/public/resources/javascripts/VEcompileJS.js"></script>
+<script src="public/resources/jquery/js/jquery-ui-1.8.4.custom.min.js"></script>
+<link rel="stylesheet" type="text/css" href="public/resources/jquery/css/black-tie/jquery-ui-1.8.4.custom.css"/>
+<script src="public/resources/javascripts/VEcompileJS.js"></script>
 {literal}
 <!--[if ie]> 
 <style type="text/css">
@@ -42,7 +42,7 @@
 
 <body>
         <div style="z-index:-2; position: absolute; left: 0px; top: 0px; width:100%;">
-            <img src="/public/resources/css/images/Background.jpg" width='100%'/>
+            <img src="public/resources/css/images/Background.jpg" width='100%'/>
         </div>
         
         <div id="scroller">
@@ -119,11 +119,11 @@
                     </div>
                     <div id="headerBanner" style="float:left; width:750px; height:230px;">
                     	<div style="float:left; width:100%; padding-left:15px; position:relative; margin-bottom:-53px;">
-                        	<a href="http://www.facebook.com/pages/Chinese-Acupressure-Massage-School/157560737613388?v=info"><img src="/public/resources/css/images/Web icons/facebook.png" /></a>
-                            <a href="http://twitter.com/#!/michacu"><img src="/public/resources/css/images/Web icons/Twitter.png" /></a>
-                            <a href="http://www.youtube.com/user/michiganacupuncture"><img src="/public/resources/css/images/Web icons/Youtube.png" /></a>
+                        	<a href="http://www.facebook.com/pages/Chinese-Acupressure-Massage-School/157560737613388?v=info"><img src="public/resources/css/images/Web icons/facebook.png" /></a>
+                            <a href="http://twitter.com/#!/michacu"><img src="public/resources/css/images/Web icons/Twitter.png" /></a>
+                            <a href="http://www.youtube.com/user/michiganacupuncture"><img src="public/resources/css/images/Web icons/Youtube.png" /></a>
                         </div>
-                    	<img src="/public/resources/css/images/michigan-acupuncture/acupuncture.png" style="float:left;"/>
+                    	<img src="public/resources/css/images/michigan-acupuncture/acupuncture.png" style="float:left;"/>
                         
                         <div style='float:left; width:750px; height:50px; position:relative; margin-top:-60px;'>
                             <div style='float:left; width:750px; height:50px; padding-top:5px; padding-bottom:5px;background:white; opacity:0.3; z-index:1; filter:alpha(opacity=30) '>

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2012-08-21 04:04:25
+<?php /* Smarty version 2.6.19, created on 2013-01-11 19:46:17
          compiled from layouts/application/footer.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'geturl', 'layouts/application/footer.tpl', 8, false),)), $this); ?>
@@ -26,7 +26,7 @@ smarty_core_load_plugins(array('plugins' => array(array('function', 'geturl', 'l
 		<div id="UIMessage">
 		</div>
         <div id='loadingImage' style='position:absolute; margin:0px; width:100%; height:100%; padding-left:30%; z-index: 100; display:none; opacity:0.8;'>
-            <img src='/public/resources/css/images/loading.gif'/>
+            <img src='public/resources/css/images/loading.gif'/>
         </div>
 
 	</div>

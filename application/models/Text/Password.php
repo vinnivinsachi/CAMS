@@ -52,7 +52,7 @@ class Text_Password {
      *                 or numeric, alphabetical or alphanumeric.
      * @return string  Returns the generated password.
      */
-    function create($length = 10, $type = 'pronounceable', $chars = '')
+    static function create($length = 10, $type = 'pronounceable', $chars = '')
     {
         switch ($type) {
         case 'unpronounceable' :
@@ -478,7 +478,7 @@ class Text_Password {
      *                 or numeric, alphabetical or alphanumeric.
      * @return string  Returns the password
      */
-    function _createUnpronounceable($length, $chars)
+    static function _createUnpronounceable($length, $chars)
     {
         global $_Text_Password_NumberOfPossibleCharacters;
 
