@@ -1,0 +1,5 @@
+/nbproject/private/
+/application/configs/settings.ini
+/data/logs/*
+/data/logs/**
+/data/tmp/templates_c
