@@ -3,3 +3,4 @@
 /data/logs/*
 /data/logs/**
 /data/tmp/templates_c
+/index.php
